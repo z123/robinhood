@@ -63,3 +63,4 @@ target/
 
 *.DS_Store
 *.pkl
+*.swp
